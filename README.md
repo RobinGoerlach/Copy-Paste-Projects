@@ -1,2 +1,2 @@
-# Copy-Paste-Projects-
+# Copy-Paste-Projects
 Project Boilerplate code
