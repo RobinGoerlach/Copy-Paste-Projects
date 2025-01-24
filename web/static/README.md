@@ -83,7 +83,7 @@ project/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-name/static-html-boilerplate.git
+   git clone https://github.com/RobinGoerlach/static-html-boilerplate.git
    ```
 
 2. Open index.html in your browser to preview the site.
